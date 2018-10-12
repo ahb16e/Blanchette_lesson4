@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Oct 4, 2018)
+(Oct 6, 2018)
 
 ### Student Name:  
 (Alexander Blanchette)
 
 ### Project Description:
-(These files are a collection of Practice files for Lesson 4)
+These files are a collection of Practice files for Lesson 4 with updated readME.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://ahb16e.github.io/Blanchette_lesson4/
 
 ### Lessons Learned in the Assignment:
 1. Clearform() allows you to clear all text fields.
